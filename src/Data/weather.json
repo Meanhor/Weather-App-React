@@ -1,0 +1,31 @@
+{
+  "coord": { "lon": 105, "lat": 13 },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 309.43,
+    "feels_like": 314,
+    "temp_min": 309.43,
+    "temp_max": 309.43,
+    "pressure": 1008,
+    "humidity": 43,
+    "sea_level": 1008,
+    "grnd_level": 1004
+  },
+  "visibility": 10000,
+  "wind": { "speed": 1.65, "deg": 246, "gust": 2.3 },
+  "clouds": { "all": 100 },
+  "dt": 1717734552,
+  "sys": { "country": "KH", "sunrise": 1717713183, "sunset": 1717759498 },
+  "timezone": 25200,
+  "id": 1831722,
+  "name": "Cambodia",
+  "cod": 200
+}
