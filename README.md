@@ -29,13 +29,14 @@ To run this project locally, follow these steps:
 
 ### Usage
 - Enter a city name in the search input and press `Enter` to fetch the current weather.
+![Data Entry](/src/assets/User%20Input%20.png)
 - Weather details for the specified city will be displayed, including temperature, description, feels like temperature, humidity, and wind speed.
+![Result](/src/assets/result.png)
 
 ### API Key
 This application uses the OpenWeatherMap API to fetch weather data. To use the app, you need to obtain an API key from OpenWeatherMap:
 
     1. Sign up for a free account on OpenWeatherMap. 
-    
     2. After signing in, navigate to API keys under your profile.
     3. Copy your API key and replace your_api_key_here in the .env file with this key.
 
