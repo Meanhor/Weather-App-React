@@ -45,7 +45,6 @@ h1 {
 .app .search{
   text-align: center;
   padding: 1rem;
-  padding-top: 2.5rem;
 }
 
 .app input{
@@ -90,8 +89,8 @@ h1 {
   text-align: center;
   width: 100%;
   margin: 1rem auto;
-  padding: 1rem;
-  border-radius: 12px;
+  padding: 2rem;
+  border-radius: 8px;
   background-color: rgba(225, 225, 225, 0.2);
 }
 
